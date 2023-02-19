@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
  * main - Prints a message
+ * @void: No parameter
  *
- * Return - give you a zero
+ * return - Always 0 (Success)
  */
-int main(void)
+void main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
