@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S $CFILE > hola
+gcc -S $CFILE > $CFILE
