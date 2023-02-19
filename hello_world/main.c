@@ -7,6 +7,6 @@
  */
 int main(void)
 {
- 	printf("Funcionando bien");
+ 	puts("Funcionando bien\n");
      	return (0);
 }
