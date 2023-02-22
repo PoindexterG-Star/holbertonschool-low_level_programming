@@ -7,8 +7,9 @@
 int main(void)
 {
 	char pr = 'a';
+	int i;
 
-	for (int i = 0; i < 26; i++)
+	for (i = 0; i < 26; i++)
 	{
 		putchar(pr + i);
 	}
